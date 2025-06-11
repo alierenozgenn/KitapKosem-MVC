@@ -117,10 +117,3 @@ kitapkosem/
 ## Lisans
 Bu proje eğitim amaçlı geliştirilmiştir.
 
-## İletişim
-- Geliştirici: [Adınız]
-- E-posta: [email@domain.com]
-- GitHub: [github.com/username]
-\`\`\`
-
-## 3. Proje Raporu
